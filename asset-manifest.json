@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fahmi-porto/static/css/main.03801e21.css",
-    "main.js": "/fahmi-porto/static/js/main.7a5313bd.js",
+    "main.js": "/fahmi-porto/static/js/main.371ab6e0.js",
     "static/js/453.41811d64.chunk.js": "/fahmi-porto/static/js/453.41811d64.chunk.js",
     "static/media/color-sharp.png": "/fahmi-porto/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/fahmi-porto/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -10,7 +10,7 @@
     "static/media/proj_plate_recognition.png": "/fahmi-porto/static/media/proj_plate_recognition.65c3a2230dd4eec00be9.png",
     "static/media/banner-bg.png": "/fahmi-porto/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/iotfire.png": "/fahmi-porto/static/media/iotfire.e7c858f057ad04a84a48.png",
-    "static/media/bannermy.png": "/fahmi-porto/static/media/bannermy.dd78cfa9520ceac61211.png",
+    "static/media/bannermy.png": "/fahmi-porto/static/media/bannermy.41ed86b460ac9df8964d.png",
     "static/media/itenas.png": "/fahmi-porto/static/media/itenas.6f7c3d3e2163971a6775.png",
     "static/media/logofahmi.png": "/fahmi-porto/static/media/logofahmi.b7d563277d2e8af1a9f8.png",
     "static/media/proj_web_sepatu.png": "/fahmi-porto/static/media/proj_web_sepatu.61a5a004573448dd20e8.png",
@@ -41,11 +41,11 @@
     "static/media/arrow1.svg": "/fahmi-porto/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/fahmi-porto/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.03801e21.css.map": "/fahmi-porto/static/css/main.03801e21.css.map",
-    "main.7a5313bd.js.map": "/fahmi-porto/static/js/main.7a5313bd.js.map",
+    "main.371ab6e0.js.map": "/fahmi-porto/static/js/main.371ab6e0.js.map",
     "453.41811d64.chunk.js.map": "/fahmi-porto/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03801e21.css",
-    "static/js/main.7a5313bd.js"
+    "static/js/main.371ab6e0.js"
   ]
 }
