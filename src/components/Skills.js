@@ -37,6 +37,7 @@ export const Skills = () => {
                         <h2>Skills</h2>
                         <p>I have strong skills in web and mobile application development using modern programming languages and frameworks. Experienced in data processing, building responsive user interfaces, and developing software solutions tailored to user needs.<br></br></p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
+                            
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>Web Development</h5>

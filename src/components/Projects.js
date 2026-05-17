@@ -22,16 +22,6 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "IoT Fire Prevention",
-      description: "Development",
-      imgUrl: projImg1,
-    },
-    {
-      title: "IoT Smart Hydroponic",
-      description: "Development",
-      imgUrl: projImg2,
-    },
-    {
       title: "Python Plate Recognition",
       description: "Design & Development",
       imgUrl: projImg3,
@@ -75,6 +65,16 @@ export const Projects = () => {
       title: "Desktop President 2024 Analyst",
       description: "Design & Development Python & R",
       imgUrl: projImg11,
+    },
+        {
+      title: "IoT Fire Prevention",
+      description: "Development",
+      imgUrl: projImg1,
+    },
+    {
+      title: "IoT Smart Hydroponic",
+      description: "Development",
+      imgUrl: projImg2,
     },
   ];
 
